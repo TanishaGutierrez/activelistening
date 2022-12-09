@@ -1,0 +1,23 @@
+body {
+    background-color: hotpink;
+} 
+
+p{
+    color: cornsilk;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+h1 {
+    font-family: Roboto Condensed;
+    font-size: xx-large;
+    color:grey
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    
+}
